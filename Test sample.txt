@@ -1,0 +1,11 @@
+{
+  "UserName": "Gelai",
+  "BrandCode": "RCI",
+  "ShipCode": "NV",
+  "CostCenterCode": "",
+  "JobCode": "",
+  "DateFrom": "2020 - January",
+  "DateTo": "1",
+  "StartRow": 1,
+  "PagingCount": 20
+}
