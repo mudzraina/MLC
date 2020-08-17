@@ -1,2 +1,0 @@
-# MLC
-Maritime Labor code
